@@ -1,9 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:go_router/go_router.dart';
-import 'package:test_task/src/features/dashboard/presentation/widgets/wrapper.dart';
-import 'package:test_task/src/features/home/presentation/views/home_view.dart';
-import 'package:test_task/src/features/mood/presentation/views/mood_view.dart';
-import 'package:test_task/src/features/training/presentation/views/training_calendar.dart';
+import '../../features/home/presentation/views/home_view.dart';
+import '../../features/mood/presentation/views/mood_view.dart';
+import '../../features/training/presentation/views/training_calendar.dart';
 
 class AppRoutes {
   static const String homeView = '/';
