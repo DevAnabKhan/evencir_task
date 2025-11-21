@@ -123,7 +123,6 @@ class _MoodScreenState extends State<MoodScreen> {
                   width: double.infinity,
                   child: ElevatedButton(
                     onPressed: () {
-                      Navigator.pop(context);
                     },
                     style: ElevatedButton.styleFrom(
                       backgroundColor: AppColors.textTertiary,
