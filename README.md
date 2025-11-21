@@ -151,7 +151,7 @@ Each feature contains its own UI, domain, and widgets.
 - Sets up router, theme, portrait mode
 
 ## 📸 View App Screenshots
-  👉 View Screenshots
+  👉 [View Screenshots](https://github.com/DevAnabKhan/evencir_task/tree/main/screenshots)
 
 ## 🎥 View App Demo Video
   👉 [Watch Demo Video](https://drive.google.com/file/d/1ZyiK7r2Bh2-PkImIqdL2KAfMzDrhHbe8/view?usp=drive_link)
