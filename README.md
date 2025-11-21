@@ -150,14 +150,12 @@ Each feature contains its own UI, domain, and widgets.
 - Initializes ScreenUtil
 - Sets up router, theme, portrait mode
 
-## 📸 View App Screenshots
+### 📸 View App Screenshots
   👉 [View Screenshots](https://github.com/DevAnabKhan/evencir_task/tree/main/screenshots)
 
-## 🎥 View App Demo Video
+### 🎥 View App Demo Video
   👉 [Watch Demo Video](https://drive.google.com/file/d/1ZyiK7r2Bh2-PkImIqdL2KAfMzDrhHbe8/view?usp=drive_link)
 
-## 📱 Download APK
-  👉 Download APK
+### 📱 Download APK
+  👉 [Download APK](https://github.com/DevAnabKhan/evencir_task/releases/download/v1.0.0/app-release.apk)
 
-### Prerequisites
-Flutter SDK (>=3.32.8)
